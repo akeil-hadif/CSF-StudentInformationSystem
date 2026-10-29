@@ -15,5 +15,11 @@ public class StudentInformationSystem {
         System.out.println("Mark 1: " + mark1);
         System.out.println("Mark 2: " + mark2);
         System.out.println("Total Marks: " + total);
+        if(total >= 100){
+    System.out.println("Result: PASS");
+}
+else{
+    System.out.println("Result: FAIL");
+}
     }
 }
