@@ -15,6 +15,8 @@ public class StudentProfile {
         System.out.println("Name: Akeil Hadif");
         System.out.println("Student ID: 85720");
         System.out.println("Programme: Bachelor of Solfware Engineer");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
 
     }
 
