@@ -2,8 +2,8 @@ public class StudentInformationSystem {
 
     public static void main(String[] args) {
 
-        String studentName = "Akeil Hadif Bin Khairul Anuar";
-        String studentID = "S85720";
+       String studentName = "Akeil Hadif Bin Khairul Anuar";
+       String studentID = "S85720";
 
         int mark1 = 95;
         int mark2 = 99;
